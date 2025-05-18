@@ -13,7 +13,7 @@
 - GitLab
 
 ## 📁 포트폴리오 문서
-[📄 포트폴리오 보기 (PDF)](./Portfolio%20-%20Eclispe.pdf)
+[📄 포트폴리오 보기 (PDF)](./Portfolio%20-%20Eclipse.pdf)
 
 ## 🎬 시연 영상
 [YouTube에서 보기](https://www.youtube.com/watch?v=WOJ5cdyHEBU)
